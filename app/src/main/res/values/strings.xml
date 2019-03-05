@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WALLET</string>
+    <string name="wallet_detailes">WALLET DETAILS</string>
+    <string name="current_balence">Current Balence</string>
+    <string name="wallet_transaction">Wallet Transcations</string>
+    <string name="add_cash">ADD CASH</string>
+    <string name="enter_amount">ENTER AMOUNT</string>
+    <string name="rupess_500">500</string>
+    <string name="rupess_1000">1000</string>
+    <string name="rupess_1500">1500</string>
+    <string name="card_details">CARD DETAILS</string>
+    <string name="card_no">**** **** **** 3424</string>
+    <string name="rs_30">Rs.30.00</string>
+    <string name="dolor_nec_fusce_aliquam_egastas_sem_vulputate_ut_blandit">Dolor nec fusce aliquam egastas sem vulputate ut blandit</string>
+
+</resources>
